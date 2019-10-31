@@ -1,0 +1,27 @@
+.icon {
+    background-color: #91e49c;
+    border: 5px;
+    color: white;
+    padding: 3px 3px;
+    text-align: center;
+    display: inline-block;
+    margin-left: 10px;
+    cursor: pointer;
+    border-radius: 30px;
+  }
+
+.clear {
+    background-color: #e96c6c;
+}
+
+.todoList {
+    padding-left: 370px;
+}
+
+.completedList{
+    padding-left: 610px;
+}
+
+.deletedList{
+    padding-left: 830px
+}
